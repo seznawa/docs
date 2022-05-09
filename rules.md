@@ -23,6 +23,7 @@ Berikut adalah rules yang ada di Luxinity Roleplay:
 8. Dilarang melakukan penipuan, pembullyan kepada sesama player ataupun SARA.
 9. Usahakan ketika bermain di server kami selalu membahas segala sesuatu dengan IC.
 10. Diperbolehkan membahas OOC ketika kalian sedang bermain di server kami, Usahakan seminimal mungkin !
+11. Dilarang menggunakan program pihak ketiga untuk mengurangi jailtime, atau mempercepat leveling karakter anda!
 
 :::caution Note
 Perubahan atau Revisi rules sewaktu-waktu bisa berubah kapan saja.
@@ -35,3 +36,4 @@ Bergantung terhadap seberapa besar pelanggaran yang kamu lakukan.
 Untuk pelanggaran yang merupakan kesalahpahaman kamu dapat mengajukan ban appeal dan juga klarifikasi disana.
 Kamu juga tetap dapat mengajukan ban appeal walaupun telah melanggar hukum, dengan syarat yang akan disepakati dengan admin yang menindak.
 :::
+
