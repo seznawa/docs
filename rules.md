@@ -8,7 +8,7 @@ keywords:
   - samp roleplay
   - gta
   - san andreas multiplayer
-image: https://media.discordapp.net/attachments/892379728961499146/966736280224423956/Screenshot_20220421-232653.png?width=234&height=468
+image: https://media.discordapp.net/attachments/940943356459102218/948106922471604244/sa-mp-021.png?width=828&height=468
 ---
 
 
