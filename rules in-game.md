@@ -69,5 +69,5 @@ BAB III Roleplay Kriminal
 
 :::caution Note
 Penulisan rules belum selesai, akan dikerjakan lagi setelah ini.
-Credit referensi: Jogjagamers.
+Referensi: Jokogamers.
 :::
